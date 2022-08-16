@@ -1,0 +1,160 @@
+#body_back {
+	width: 550px;
+	height: 550px;
+	left: 642px;
+	top: 64px;
+
+	background: #1F2937;
+}
+
+#container {
+	padding-top: 80px;
+	padding-left: 100px;
+}
+
+#length_label {
+	color: white;
+}
+
+#char_length {
+	width: 50px;
+	height: 40px;
+	background-color: #10B981;
+	color: white;
+	text-align: center;
+}
+
+#hr_1 {
+	width: 446px;
+	height: 0px;
+	left: 52px;
+	top: 361px;
+
+	border: 1px solid #2F3E53;
+
+}
+
+h1 {
+	width: 354px;
+	height: 80px;
+	left: 52px;
+	top: 115px;
+
+	font-family: 'Karla';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 40px;
+	/* or 100% */
+
+	letter-spacing: -0.025em;
+
+	/* white */
+}
+
+#header_1 {
+	color: #FFFFFF;
+}
+
+#header_2 {
+	color: #10B981;
+}
+
+p {
+	width: 372px;
+	height: 28px;
+	left: 52px;
+	top: 205px;
+
+	/* text-xl/leading-7/font-normal */
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	/* identical to box height, or 140% */
+
+
+	/* Medium grey */
+
+	color: #D5D4D8;
+}
+
+button {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 9px 17px 9px 15px;
+	gap: 12px;
+
+	width: 191px;
+	height: 42px;
+	left: 52px;
+	top: 284px;
+
+	border-width: 0px;
+	background: #10B981;
+	/* shadow/sm */
+
+	border-radius: 6px;
+
+	color: white
+}
+
+.password_1 {
+	width: 211px;
+	height: 39px;
+	left: 52px;
+	top: 396px;
+
+	background: #273549;
+	border-radius: 6px;
+}
+
+.password_2 {
+	width: 211px;
+	height: 39px;
+	left: 287px;
+	top: 396px;
+
+	background: #273549;
+	border-radius: 6px;
+}
+
+#text_1 {
+	width: 180px;
+	height: 32px;
+	left: 67px;
+	top: 400px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 32px;
+	/* identical to box height, or 200% */
+
+	text-align: center;
+
+	color: #55F991;
+}
+
+#text_2 {
+	width: 192px;
+	height: 32px;
+	left: 297px;
+	top: 400px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 32px;
+	/* identical to box height, or 200% */
+
+	text-align: center;
+
+	color: #55F991;
+}
